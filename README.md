@@ -1,0 +1,1 @@
+Docker Image extending ghcr.io/inti-cmnb/kicad7_auto_full:latest with blender and pcb2blender
